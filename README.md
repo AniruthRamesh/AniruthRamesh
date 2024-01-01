@@ -49,7 +49,7 @@ const ani = {
 			js: ['node', 'express.js'],
 			java: ['core','spring boot'], python: ['django','django rest'],
 		},
-		devOps: ['AWS'],
+		devOps: ['AWS','Docker','Kubernetes'],
 		databases: ['MySql', 'mongoDB', 'sqlite','postreSQL', 'Firebase', 'Amazon DynamoDB']
 	}
 };
