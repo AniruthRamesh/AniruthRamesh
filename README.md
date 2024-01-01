@@ -6,7 +6,6 @@ CS Grad at Northeastern, Boston 🌱
 
 [![Linkedin: aniruth-ramesh](https://img.shields.io/badge/AniruthRamesh%20-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aniruth-ramesh/)](https://www.linkedin.com/in/aniruth-ramesh/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-yellow)](https://www.aniruthramesh.com)
 
 
 ## Languages 🚀
@@ -59,7 +58,7 @@ const ani = {
 
 I'm passionate about building innovative solutions and collaborating with fellow tech enthusiasts. Feel free to reach out to me for exciting discussions, project collaborations, or simply to geek out over the latest tech trends. Let's connect and embark on an incredible coding journey together! 💻✨
 
-[![Linkedin: aniruth-ramesh](https://img.shields.io/badge/AniruthRamesh%20-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aniruth-ramesh/)](https://www.linkedin.com/in/aniruth-ramesh/) [![Portfolio](https://img.shields.io/badge/Portfolio-View-yellow)](https://www.aniruthramesh.com)
+[![Linkedin: aniruth-ramesh](https://img.shields.io/badge/AniruthRamesh%20-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aniruth-ramesh/)](https://www.linkedin.com/in/aniruth-ramesh/) 
 
 <!--
 **AniruthRamesh/AniruthRamesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
